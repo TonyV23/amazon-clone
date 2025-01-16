@@ -12,6 +12,9 @@
 .swiftpm/
 migrate_working_dir/
 
+# backend nodejs
+lib/server/node_modules
+
 # IntelliJ related
 *.iml
 *.ipr
