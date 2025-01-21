@@ -14,6 +14,7 @@ migrate_working_dir/
 
 # backend nodejs
 lib/server/node_modules
+lib/server/package-lock.json
 
 # IntelliJ related
 *.iml
